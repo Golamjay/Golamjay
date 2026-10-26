@@ -21,7 +21,13 @@ jobs:
           username: Golamjay
           text: Welcome Dev!
           output-path: deploy/gravity.svg
-          color: "white"
+          #color: "white"
+          # THIS IS THE NEW STEP: It forces the SVG text to white
+      - name: Force text color to white
+        run: |
+          sed -i 's/fill="#000000"/fill="#ffffff"/gi' deploy/gravity.svg
+          sed -i 's/fill="black"/fill="white"/gi' deploy/gravity.svg
+          sed -i 's/<text /<text fill="#ffffff" /gi' deploy/gravity.svg
 
       - uses: peaceiris/actions-gh-pages@v4
         with:
