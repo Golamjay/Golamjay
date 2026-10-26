@@ -1,7 +1,9 @@
 ## Hey, I'm Jay 👋
-<p align="center">
+<!-- the below Hello text -->
+<!--<p align="center">
   <img src="https://camo.githubusercontent.com/7bdfcc5ee8133abfb28ee78dca9607519dae080b52953e578b05bd7ed8f8cae6/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426746578743d48656c6c6f21266865696768743d3130302673656374696f6e3d686561646572"/>
-</p>
+</p>-->
+
 <!-- the below is for contribution ball fall -->
 <!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Golamjay/Golamjay/output/gravity.svg">
@@ -22,7 +24,7 @@ a creative side I don't want to leave behind while I get deeper into tech.
 
 **Currently:** Learning • Building • Experimenting
 
-
+![GitHub contribution graph](https://github-readme-insight-terminal-asci.vercel.app/svg?user=Golamjay&theme=mac)
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-golam-a7b61525a/)
