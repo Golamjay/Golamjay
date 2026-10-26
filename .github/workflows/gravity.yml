@@ -11,6 +11,8 @@ on:
 jobs:
   gravity:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # This grants the token the necessary push permissions
     steps:
       - uses: actions/checkout@v6
 
