@@ -3,11 +3,11 @@
   <img src="https://camo.githubusercontent.com/7bdfcc5ee8133abfb28ee78dca9607519dae080b52953e578b05bd7ed8f8cae6/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426746578743d48656c6c6f21266865696768743d3130302673656374696f6e3d686561646572"/>
 </p>
 <!-- the below is for contribution ball fall -->
-<picture>
+<!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Golamjay/Golamjay/output/gravity.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Golamjay/Golamjay/output/gravity.svg">
   <img alt="github gravity" src="https://raw.githubusercontent.com/Golamjay/Golamjay/output/gravity.svg">
-</picture>
+</picture>-->
 
 **Engineering student • Developer in progress • Creative**
 
@@ -48,6 +48,7 @@ a creative side I don't want to leave behind while I get deeper into tech.
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Golamjay&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+![GitHub contribution graph](https://github-readme-insight-terminal-asci.vercel.app/svg/graph?user=Golamjay&theme=mac)
 
 ### 🔝 Top Contributed Repo
 
