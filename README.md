@@ -42,6 +42,11 @@ a creative side I don't want to leave behind while I get deeper into tech.
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Golamjay&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Golamjay/Golamjay/output/gravity.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Golamjay/Golamjay/output/gravity.svg">
+  <img alt="github gravity" src="https://raw.githubusercontent.com/Golamjay/Golamjay/output/gravity.svg">
+</picture>
 
 ### 🔝 Top Contributed Repo
 
