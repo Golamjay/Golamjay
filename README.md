@@ -24,7 +24,6 @@ a creative side I don't want to leave behind while I get deeper into tech.
 
 **Currently:** Learning • Building • Experimenting
 
-![GitHub contribution graph](https://github-readme-insight-terminal-asci.vercel.app/svg?user=Golamjay&theme=mac)
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-golam-a7b61525a/)
@@ -52,11 +51,5 @@ a creative side I don't want to leave behind while I get deeper into tech.
 
 ![GitHub contribution graph](https://github-readme-insight-terminal-asci.vercel.app/svg/graph?user=Golamjay&theme=windows)
 
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Golamjay&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Golamjay&color=0D1117)
