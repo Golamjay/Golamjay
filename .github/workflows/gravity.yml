@@ -21,6 +21,7 @@ jobs:
           username: Golamjay
           text: Welcome Dev!
           output-path: deploy/gravity.svg
+          color: "white"
 
       - uses: peaceiris/actions-gh-pages@v4
         with:
