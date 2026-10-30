@@ -39,7 +39,7 @@ a creative side I don't want to leave behind while I get deeper into tech.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+[![My Skills](https://skillicons.dev/icons?i=c,py,html,css,git,github,blender,clion,powershell,postgres)](https://skillicons.dev)
 
 #  GitHub Stats:
 <table>
