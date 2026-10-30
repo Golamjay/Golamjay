@@ -24,14 +24,14 @@ a creative side I don't want to leave behind while I get deeper into tech.
 
 **Currently:** Learning • Building • Experimenting
 
-## 🌐 Socials:
+##  Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-golam-a7b61525a/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@InMotionWithJay)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:golamjay118@gmail.com)
 
 
-# 💻 Tech Stack:
+#  Tech Stack:
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -41,16 +41,26 @@ a creative side I don't want to leave behind while I get deeper into tech.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-# 📊 GitHub Stats:
+#  GitHub Stats:
+<table>
+  <tr>
+    <td width="50%">
+      <div align="center">
+  <img src="https://github-stats-xi-six.vercel.app/api/stats?user=Golamjay&theme=glass" alt="GitHub Stats" />
+</div>
+    </td>
+    <td width="50%">
+      <div align="center">
+  <img src="https://github-stats-xi-six.vercel.app/api/top-repos?user=Golamjay&theme=glass" alt="Top Repositories" />
+</div>
+    </td>
+  </tr>
+</table>
 
-![](https://github-readme-stats.shion.dev/api?username=Golamjay&theme=merko&hide_border=false&include_all_commits=true&count_private=false)
+<!-- the below is for contribution ball fall ![](https://github-readme-stats.shion.dev/api?username=Golamjay&theme=merko&hide_border=false&include_all_commits=true&count_private=false)-->
 
-![](https://streak-stats.demolab.com/?user=Golamjay&theme=merko&hide_border=false)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Golamjay&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![GitHub contribution graph](https://github-readme-insight-terminal-asci.vercel.app/svg/graph?user=Golamjay&theme=windows)
-## Top Repositories
-[![Top Repositories](https://gitcard-studio.creativecode.com.co/api/top-repos?username=Golamjay&theme=solarized&locale=es&preview=true)](https://gitcard-studio.creativecode.com.co/?user=Golamjay&theme=solarized)
+![GitHub contribution graph](https://github-readme-insight-terminal-asci.vercel.app/svg/graph?user=Golamjay&theme=ubuntu)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Golamjay&color=0D1117)
