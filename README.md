@@ -61,6 +61,6 @@ a creative side I don't want to leave behind while I get deeper into tech.
 
 
 
-![GitHub contribution graph](https://github-readme-insight-terminal-asci.vercel.app/svg/graph?user=Golamjay&theme=ubuntu)
+![GitHub contribution graph](https://github-readme-insight-terminal-asci.vercel.app/svg/graph?user=Golamjay&theme=mac)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Golamjay&color=0D1117)
+![Profile Views](https://komarev.com/ghpvc/?username=Golamjay&color=blue)
