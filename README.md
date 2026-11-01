@@ -31,7 +31,7 @@ a creative side I don't want to leave behind while I get deeper into tech.
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:golamjay118@gmail.com)
 
 
-#  Tech Stack:
+## Tech Stack:
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
