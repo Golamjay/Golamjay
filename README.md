@@ -1,3 +1,5 @@
+<div align="center">
+  
 ## Hey, I'm Jay 👋
 <!-- the below Hello text -->
 <!--<p align="center">
@@ -37,6 +39,7 @@ and slowly turning ideas into something real and valuable.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 [![My Skills](https://skillicons.dev/icons?i=c,py,html,css,git,github,blender,clion,powershell,postgres)](https://skillicons.dev)
+</div>
 
 #  GitHub Stats:
 <table>
