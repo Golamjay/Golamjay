@@ -23,14 +23,13 @@ a creative side I don't want to leave behind while I get deeper into tech.
 I like learning by experimenting, breaking things, fixing them,  
 and slowly turning ideas into something real and valuable.
 
-##  Socials:
-
+##  `</Socials>`
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-golam-a7b61525a/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@InMotionWithJay)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:golamjay118@gmail.com)
 
 
-## Tech Stack:
+## `</Tech Stack>`
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -41,7 +40,7 @@ and slowly turning ideas into something real and valuable.
 [![My Skills](https://skillicons.dev/icons?i=c,py,html,css,git,github,blender,clion,powershell,postgres)](https://skillicons.dev)
 </div>
 
-#  GitHub Stats:
+#  `</GitHub Stats>`
 <table>
   <tr>
     <td width="50%">
