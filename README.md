@@ -10,19 +10,16 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Golamjay/Golamjay/output/gravity.svg">
   <img alt="github gravity" src="https://raw.githubusercontent.com/Golamjay/Golamjay/output/gravity.svg">
 </picture>-->
-
-**Engineering student • Developer in progress • Creative**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Engineer+%E2%80%A2+Developer+%E2%80%A2+Video+Editor;Looking+for+Hackathon+Buddy!!;Learning+%E2%80%A2+Building+%E2%80%A2+Experimenting;Learning+Beyond+Classes)](https://git.io/typing-svg)
 
 I'm currently learning **Python, C, and Git/GitHub** while exploring  
 software development and figuring out what I want to build.
 
-I like learning by experimenting, breaking things, fixing them,  
-and slowly turning ideas into something real.
-
 Outside of code, you'll find me **editing videos and creating content** —  
 a creative side I don't want to leave behind while I get deeper into tech.
 
-**Currently:** Learning • Building • Experimenting
+I like learning by experimenting, breaking things, fixing them,  
+and slowly turning ideas into something real and valuable.
 
 ##  Socials:
 
